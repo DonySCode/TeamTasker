@@ -1,6 +1,6 @@
 # TeamTasker
 
-**TeamTasker** is a task tracker web application built using **.NET** and **React**, designed to simplify task scheduling and task assignment within teams. It consolidates task management into a single platform, solving the need for multiple services just for task assignment.
+**TeamTasker** is a task tracker web application built using **.NET** and **Vuejs**, designed to simplify task scheduling and task assignment within teams. It consolidates task management into a single platform, solving the need for multiple services just for task assignment.
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@
 The project is organized into the following components:
 
 - **TeamTasker.API**: The backend project built with **ASP.NET Core** for managing the application’s logic and API endpoints.
-- **TeamTasker.Client**: The frontend project built with **React.js** for the user interface.
+- **TeamTasker.Client**: The frontend project built with **Vue.js** for the user interface.
 - **TeamTasker.Data**: Contains the **MySQL** database models and data access logic.
 
 ## Installation
@@ -33,7 +33,6 @@ Follow these steps to set up and run the project on your local machine:
 ### Prerequisites
 
 - [.NET SDK](https://dotnet.microsoft.com/download)
-- [Node.js](https://nodejs.org/) (for React)
 - [MySQL](https://www.mysql.com/downloads/) (Database)
 
 ### Steps
